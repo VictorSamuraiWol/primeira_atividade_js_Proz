@@ -1,0 +1,31 @@
+--JavaScript Snippets:
+Como nome sugere, são trechos de códigos utilizados no Visual Studio para agilizar o desenvolvimento de código.
+
+--REST Client:
+Faça requests direto do VSCode e veja as respostas de cada requisição.
+
+--Emmet:
+Facilita bastante a escrita do HTML, provendo abreviações poderosas, snippets dinâmicos e diversos atalhos para escrever HTM.
+
+--Path Intellisense:
+Ajuda de preenchimento de código que inclui inúmeras funcionalidades: Listar Membros, Informações do Parâmetro, Informações Rápidas e Completar Palavra.
+
+--Import Cost:
+Exibe o tamanho dos módulos que você está importando para o seu código em JS.
+
+--Auto Close Tag
+--Auto Rename Tag
+
+--Indenticator:
+Facilita a visualização do bloco de código que está identado.
+
+--Indent-Rainbow:
+Uma extensão simples para tornar a indentação do seu código mais legível criando linhas com cores para cada nível.
+
+TODO Highlight:
+--Para dar um highlight em algumas marcações dos comentários como TODO, FIXME e outras anotações em seu código.
+
+--VSCode Great Icons:
+Pacote de icones para o VSCode.
+
+
