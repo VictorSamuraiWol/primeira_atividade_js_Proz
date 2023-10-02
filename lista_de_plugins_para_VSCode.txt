@@ -19,6 +19,9 @@ Fechamento automatico das tags.
 --Auto Rename Tag:
 Renomeia a tag automaticamente.
 
+--CSS Peek:
+Visualiza de forma rápida e fácil os estilos aplicados às classes e IDs num arquivo HTML. Pressione a tecla Ctrl e passe o mouse por cima de uma classe ou um ID num arquivo HTML que um pop-up aparecerá contendo todas as estilizações aplicadas.
+
 --Indenticator:
 Facilita a visualização do bloco de código que está identado.
 
