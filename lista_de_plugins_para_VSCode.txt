@@ -13,8 +13,11 @@ Ajuda de preenchimento de código que inclui inúmeras funcionalidades: Listar M
 --Import Cost:
 Exibe o tamanho dos módulos que você está importando para o seu código em JS.
 
---Auto Close Tag
---Auto Rename Tag
+--Auto Close Tag:
+Fechamento automatico das tags.
+
+--Auto Rename Tag:
+Renomeia a tag automaticamente.
 
 --Indenticator:
 Facilita a visualização do bloco de código que está identado.
