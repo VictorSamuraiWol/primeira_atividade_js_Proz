@@ -1,1 +1,3 @@
--->Será necessário utilizar o Java Script para guardar alguns dados, como peso e altura, e também, para após guardar os dados fazer o cálculo do IMC (indice de massa corporal).
+-->Será necessário utilizar o Java Script para guardar alguns
+ dados, como peso e altura, e também, para após guardar os
+ dados fazer o cálculo do IMC (indice de massa corporal).
